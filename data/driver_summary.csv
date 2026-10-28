@@ -1,0 +1,6 @@
+driver_name,valid_laps,mean_seconds,median_seconds,std_seconds,best_seconds
+Driver 01,28,92.471,92.47,0.512,91.08
+Driver 04,28,92.789,92.845,0.551,91.681
+Driver 16,28,93.117,93.048,0.601,91.966
+Driver 44,28,93.38,93.363,0.635,92.093
+Driver 81,28,93.634,93.592,0.513,92.529
